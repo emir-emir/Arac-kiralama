@@ -1,0 +1,23 @@
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\bin\Debug\ARAÇ_KİRALAMA_OTOMASYONU.exe
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\bin\Debug\ARAÇ_KİRALAMA_OTOMASYONU.pdb
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form1.resources
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form2.resources
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form3.resources
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Properties.Resources.resources
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.csproj.GenerateResource.Cache
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.exe
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.pdb
+c:\users\windows 8.1 pro vl\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form4.resources
+C:\Users\Windows 8.1 Pro VL\documents\visual studio 2010\Projects\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.csprojResolveAssemblyReference.cache
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\bin\Debug\ARAÇ_KİRALAMA_OTOMASYONU.exe
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\bin\Debug\ARAÇ_KİRALAMA_OTOMASYONU.pdb
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.csprojAssemblyReference.cache
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form1.resources
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form2.resources
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form3.resources
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Form4.resources
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.Properties.Resources.resources
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.csproj.GenerateResource.cache
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.csproj.CoreCompileInputs.cache
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.exe
+D:\program\karışık\ARAÇ_KİRALAMA_OTOMASYONU\ARAÇ_KİRALAMA_OTOMASYONU\obj\x86\Debug\ARAÇ_KİRALAMA_OTOMASYONU.pdb
